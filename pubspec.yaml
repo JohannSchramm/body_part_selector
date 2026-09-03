@@ -11,10 +11,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_svg: ">=1.1.0 <2.0.0" # https://github.com/dnfield/flutter_svg/issues/969
-  freezed_annotation: ^3.1.0 
+  freezed_annotation: ^3.1.0
+  path_drawing: ^1.0.1
   rotation_stage: ^0.3.0
   touchable: ^1.0.2
+  xml: ^7.0.1
 
 dev_dependencies:
   build_runner: ^2.4.9
